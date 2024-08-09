@@ -1,7 +1,7 @@
 # Cozy Pixel Font for GB Studio 🕹📝
 
 This repository contains the **Cozy 8x8** font by [Paige Ashlynn](https://github.com/mxashlynn),
-adapted in part from the 6x12 coding font [Cozetter](https://gitlab.com/0x9E01/Cozetter) by [Ninee!](https://gitlab.com/0x9E01), <!-- https://cohost.org/0x9E01 -->
+adapted in part from the 6x12 coding font [Cozetter](https://gitlab.com/0x9E01/Cozetter) by [Ninee!](https://gitlab.com/0x9E01),
 itself derived from [Cozette](https://github.com/slavfox/Cozette) by [SlavFox](https://github.com/slavfox).
 
 This font is for use with [GB Studio](https://github.com/chrismaltby/gb-studio) 4.x by [Chris Maltby](https://github.com/chrismaltby) and others,
