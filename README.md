@@ -26,5 +26,5 @@ For more information please see the [GB Studio documentation](https://www.gbstud
 
 ## Rights 🏳️‍🌈🏳️‍⚧️
 
-This font asset is made availavle under the MIT License.
-You can use it in your own projects or modify it to create your own versions as long as you credit the original creator and the adaptors.
+This font asset is made available under the MIT License.
+You can use it in your own projects or modify it to create your own versions as long as you credit the original creator and the adapters.
